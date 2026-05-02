@@ -1,0 +1,16 @@
+# Traffic Violation Detection System — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# YOLOv8 (object detection)
+ultralytics>=8.0.0
+
+# Optional: GPU acceleration
+# torch>=2.0.0
+# torchvision>=0.15.0
+
+# Utilities
+PyYAML>=6.0
